@@ -2,7 +2,7 @@
 Simple chrome extension to kill sticky headers on any page when clicked
 
 Installation:
-* Go to [chrome://extensions]
+* Go to [chrome://extensions](chrome://extensions)
 * Enable Developer Mode (top right corner)
 * Load Unpacked
 * Select killSticky folder
