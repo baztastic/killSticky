@@ -11,4 +11,4 @@ Usage:
 * Click button to kill all fixed elements on a page
 
 Inspiration:
-Alisdair McDiarmid's [https://alisdair.mcdiarmid.org/kill-sticky-headers/](KillSticky bookmarklet).
+Alisdair McDiarmid's [KillSticky bookmarklet](https://alisdair.mcdiarmid.org/kill-sticky-headers/).
