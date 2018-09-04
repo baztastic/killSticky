@@ -5,7 +5,7 @@
 var i, elements = document.querySelectorAll('body *');
 
   for (i = 0; i < elements.length; i++) {
-    if (getComputedStyle(elements[i]).position === 'fixed') {
+    if (["sticky", "fixed"].includes(getComputedStyle(elements[i]).position)) {
       elements[i].parentNode.removeChild(elements[i]);
     }
   }
