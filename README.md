@@ -5,6 +5,7 @@
 Simple chrome extension to kill fixed and sticky headers on any page when clicked
 
 Installation:
+* Download (or clone) repository
 * Go to [chrome://extensions](chrome://extensions)
 * Enable Developer Mode (top right corner)
 * Load Unpacked
