@@ -13,6 +13,9 @@ const code = `(() => {
         elements[i].parentNode.removeChild(elements[i]);
       }
     }
+
+  var bodyelem = document.querySelector('body');
+  bodyelem.style.overflow = 'scroll';
 })()`
 
 chrome.browserAction.onClicked.addListener(function(tab) {
